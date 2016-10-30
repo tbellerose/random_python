@@ -4,7 +4,7 @@ Just some random python scripts I've written for various purposes.
 
 ## grabfiles.py
 
-Inspire by the source for keepgrabbing.py found here: https://github.com/sprky0/jstor. Just for practice using subprocess and urllib.
+Inspired by the source for keepgrabbing.py found here: https://github.com/sprky0/jstor. Just for practice using subprocess and urllib to pull files from the web.
 
 ## passwords.py
 
